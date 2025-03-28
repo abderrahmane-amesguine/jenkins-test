@@ -1,0 +1,902 @@
+[
+    {
+        "hostname": "PC-001",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-03-17"
+    },
+    {
+        "hostname": "PC-002",
+        "os": "Windows 7",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-01-22"
+    },
+    {
+        "hostname": "PC-003",
+        "os": "Windows 11",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-03-26"
+    },
+    {
+        "hostname": "PC-004",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-01-17"
+    },
+    {
+        "hostname": "PC-005",
+        "os": "Windows 7",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-28"
+    },
+    {
+        "hostname": "PC-006",
+        "os": "Windows 11",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-20"
+    },
+    {
+        "hostname": "PC-007",
+        "os": "Windows 11",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-22"
+    },
+    {
+        "hostname": "PC-008",
+        "os": "Windows 7",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-02-27"
+    },
+    {
+        "hostname": "PC-009",
+        "os": "Windows Server 2012",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-01-18"
+    },
+    {
+        "hostname": "PC-010",
+        "os": "Windows 10",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-02-16"
+    },
+    {
+        "hostname": "PC-011",
+        "os": "Windows 7",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-02-27"
+    },
+    {
+        "hostname": "PC-012",
+        "os": "Windows 11",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-01-28"
+    },
+    {
+        "hostname": "PC-013",
+        "os": "Windows 10",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-03-19"
+    },
+    {
+        "hostname": "PC-014",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-03-10"
+    },
+    {
+        "hostname": "PC-015",
+        "os": "Windows Server 2012",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-14"
+    },
+    {
+        "hostname": "PC-016",
+        "os": "Windows 10",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-02-11"
+    },
+    {
+        "hostname": "PC-017",
+        "os": "Windows 7",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-02-11"
+    },
+    {
+        "hostname": "PC-018",
+        "os": "Windows 10",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-03-16"
+    },
+    {
+        "hostname": "PC-019",
+        "os": "Windows 7",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-03-15"
+    },
+    {
+        "hostname": "PC-020",
+        "os": "Windows 11",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-02-16"
+    },
+    {
+        "hostname": "PC-021",
+        "os": "Windows 7",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-17"
+    },
+    {
+        "hostname": "PC-022",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-02-28"
+    },
+    {
+        "hostname": "PC-023",
+        "os": "Windows 11",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-03-21"
+    },
+    {
+        "hostname": "PC-024",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-01-12"
+    },
+    {
+        "hostname": "PC-025",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-20"
+    },
+    {
+        "hostname": "PC-026",
+        "os": "Windows 11",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-02-17"
+    },
+    {
+        "hostname": "PC-027",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-01-28"
+    },
+    {
+        "hostname": "PC-028",
+        "os": "Windows Server 2012",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-03-21"
+    },
+    {
+        "hostname": "PC-029",
+        "os": "Windows 7",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-01-19"
+    },
+    {
+        "hostname": "PC-030",
+        "os": "Windows 7",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-03-19"
+    },
+    {
+        "hostname": "PC-031",
+        "os": "Windows 11",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-02-28"
+    },
+    {
+        "hostname": "PC-032",
+        "os": "Windows Server 2012",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-01-27"
+    },
+    {
+        "hostname": "PC-033",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-01-20"
+    },
+    {
+        "hostname": "PC-034",
+        "os": "Windows 10",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-03-10"
+    },
+    {
+        "hostname": "PC-035",
+        "os": "Windows 11",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-14"
+    },
+    {
+        "hostname": "PC-036",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-01-21"
+    },
+    {
+        "hostname": "PC-037",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-19"
+    },
+    {
+        "hostname": "PC-038",
+        "os": "Windows Server 2012",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-03-14"
+    },
+    {
+        "hostname": "PC-039",
+        "os": "Windows Server 2012",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-20"
+    },
+    {
+        "hostname": "PC-040",
+        "os": "Windows 11",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-03-17"
+    },
+    {
+        "hostname": "PC-041",
+        "os": "Windows 10",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-01-10"
+    },
+    {
+        "hostname": "PC-042",
+        "os": "Windows 11",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-01-25"
+    },
+    {
+        "hostname": "PC-043",
+        "os": "Windows 7",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-03-19"
+    },
+    {
+        "hostname": "PC-044",
+        "os": "Windows 11",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-03-21"
+    },
+    {
+        "hostname": "PC-045",
+        "os": "Windows 7",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-27"
+    },
+    {
+        "hostname": "PC-046",
+        "os": "Windows 11",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-01-14"
+    },
+    {
+        "hostname": "PC-047",
+        "os": "Windows 10",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-20"
+    },
+    {
+        "hostname": "PC-048",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-01-15"
+    },
+    {
+        "hostname": "PC-049",
+        "os": "Windows 7",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-14"
+    },
+    {
+        "hostname": "PC-050",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-14"
+    },
+    {
+        "hostname": "PC-051",
+        "os": "Windows 7",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-02-17"
+    },
+    {
+        "hostname": "PC-052",
+        "os": "Windows Server 2012",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-03-10"
+    },
+    {
+        "hostname": "PC-053",
+        "os": "Windows Server 2012",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-18"
+    },
+    {
+        "hostname": "PC-054",
+        "os": "Windows 11",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-02-20"
+    },
+    {
+        "hostname": "PC-055",
+        "os": "Windows 11",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-01-27"
+    },
+    {
+        "hostname": "PC-056",
+        "os": "Windows 10",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-03-15"
+    },
+    {
+        "hostname": "PC-057",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-01-15"
+    },
+    {
+        "hostname": "PC-058",
+        "os": "Windows Server 2012",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-01-21"
+    },
+    {
+        "hostname": "PC-059",
+        "os": "Windows 11",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-03-26"
+    },
+    {
+        "hostname": "PC-060",
+        "os": "Windows 10",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-03-23"
+    },
+    {
+        "hostname": "PC-061",
+        "os": "Windows 7",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-03-13"
+    },
+    {
+        "hostname": "PC-062",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-25"
+    },
+    {
+        "hostname": "PC-063",
+        "os": "Windows 7",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-02-10"
+    },
+    {
+        "hostname": "PC-064",
+        "os": "Windows 10",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-02-15"
+    },
+    {
+        "hostname": "PC-065",
+        "os": "Windows 11",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-03-12"
+    },
+    {
+        "hostname": "PC-066",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-02-11"
+    },
+    {
+        "hostname": "PC-067",
+        "os": "Windows Server 2012",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-01-24"
+    },
+    {
+        "hostname": "PC-068",
+        "os": "Windows 11",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-02-22"
+    },
+    {
+        "hostname": "PC-069",
+        "os": "Windows 11",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-02-15"
+    },
+    {
+        "hostname": "PC-070",
+        "os": "Windows 11",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-01-14"
+    },
+    {
+        "hostname": "PC-071",
+        "os": "Windows 10",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-01-14"
+    },
+    {
+        "hostname": "PC-072",
+        "os": "Windows 7",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-03-28"
+    },
+    {
+        "hostname": "PC-073",
+        "os": "Windows Server 2012",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-02-10"
+    },
+    {
+        "hostname": "PC-074",
+        "os": "Windows 10",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-02-26"
+    },
+    {
+        "hostname": "PC-075",
+        "os": "Windows 11",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-19"
+    },
+    {
+        "hostname": "PC-076",
+        "os": "Windows 7",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-03-16"
+    },
+    {
+        "hostname": "PC-077",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-11"
+    },
+    {
+        "hostname": "PC-078",
+        "os": "Windows Server 2012",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-03-12"
+    },
+    {
+        "hostname": "PC-079",
+        "os": "Windows 10",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-13"
+    },
+    {
+        "hostname": "PC-080",
+        "os": "Windows 10",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-15"
+    },
+    {
+        "hostname": "PC-081",
+        "os": "Windows 10",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-28"
+    },
+    {
+        "hostname": "PC-082",
+        "os": "Windows Server 2012",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-24"
+    },
+    {
+        "hostname": "PC-083",
+        "os": "Windows 11",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-01-19"
+    },
+    {
+        "hostname": "PC-084",
+        "os": "Windows 7",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-02-16"
+    },
+    {
+        "hostname": "PC-085",
+        "os": "Windows 11",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-02-20"
+    },
+    {
+        "hostname": "PC-086",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-02-24"
+    },
+    {
+        "hostname": "PC-087",
+        "os": "Windows 10",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-16"
+    },
+    {
+        "hostname": "PC-088",
+        "os": "Windows 11",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-21"
+    },
+    {
+        "hostname": "PC-089",
+        "os": "Windows 7",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-14"
+    },
+    {
+        "hostname": "PC-090",
+        "os": "Windows Server 2012",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-01-26"
+    },
+    {
+        "hostname": "PC-091",
+        "os": "Windows Server 2012",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-03-10"
+    },
+    {
+        "hostname": "PC-092",
+        "os": "Windows 7",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": true,
+        "last_update": "2024-03-14"
+    },
+    {
+        "hostname": "PC-093",
+        "os": "Windows 10",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-02-25"
+    },
+    {
+        "hostname": "PC-094",
+        "os": "Windows 10",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-16"
+    },
+    {
+        "hostname": "PC-095",
+        "os": "Windows 11",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": true,
+        "last_update": "2024-03-26"
+    },
+    {
+        "hostname": "PC-096",
+        "os": "Windows 7",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": false,
+        "last_update": "2024-03-15"
+    },
+    {
+        "hostname": "PC-097",
+        "os": "Windows 7",
+        "version": "R2",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-01-23"
+    },
+    {
+        "hostname": "PC-098",
+        "os": "Windows 7",
+        "version": "21H2",
+        "status": "Active",
+        "criticality": "Critique",
+        "encryption": true,
+        "last_update": "2024-02-16"
+    },
+    {
+        "hostname": "PC-099",
+        "os": "Windows 7",
+        "version": "SP1",
+        "status": "Active",
+        "criticality": "Standard",
+        "encryption": false,
+        "last_update": "2024-03-10"
+    },
+    {
+        "hostname": "PC-100",
+        "os": "Windows 7",
+        "version": "22H2",
+        "status": "Active",
+        "criticality": "Faible",
+        "encryption": false,
+        "last_update": "2024-03-25"
+    }
+]

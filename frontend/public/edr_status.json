@@ -1,0 +1,602 @@
+[
+    {
+        "hostname": "PC-001",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-26"
+    },
+    {
+        "hostname": "PC-002",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-20"
+    },
+    {
+        "hostname": "PC-003",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-16"
+    },
+    {
+        "hostname": "PC-004",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-005",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-26"
+    },
+    {
+        "hostname": "PC-006",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-14"
+    },
+    {
+        "hostname": "PC-007",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-008",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-18"
+    },
+    {
+        "hostname": "PC-009",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-25"
+    },
+    {
+        "hostname": "PC-010",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-10"
+    },
+    {
+        "hostname": "PC-011",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-15"
+    },
+    {
+        "hostname": "PC-012",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-10"
+    },
+    {
+        "hostname": "PC-013",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-014",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-11"
+    },
+    {
+        "hostname": "PC-015",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-016",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-19"
+    },
+    {
+        "hostname": "PC-017",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-27"
+    },
+    {
+        "hostname": "PC-018",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-019",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-020",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-021",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-022",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-13"
+    },
+    {
+        "hostname": "PC-023",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-11"
+    },
+    {
+        "hostname": "PC-024",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-25"
+    },
+    {
+        "hostname": "PC-025",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-15"
+    },
+    {
+        "hostname": "PC-026",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-24"
+    },
+    {
+        "hostname": "PC-027",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-19"
+    },
+    {
+        "hostname": "PC-028",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-20"
+    },
+    {
+        "hostname": "PC-029",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-030",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-031",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-18"
+    },
+    {
+        "hostname": "PC-032",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-26"
+    },
+    {
+        "hostname": "PC-033",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-16"
+    },
+    {
+        "hostname": "PC-034",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-25"
+    },
+    {
+        "hostname": "PC-035",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-10"
+    },
+    {
+        "hostname": "PC-036",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-16"
+    },
+    {
+        "hostname": "PC-037",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-27"
+    },
+    {
+        "hostname": "PC-038",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-14"
+    },
+    {
+        "hostname": "PC-039",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-18"
+    },
+    {
+        "hostname": "PC-040",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-27"
+    },
+    {
+        "hostname": "PC-041",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-042",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-12"
+    },
+    {
+        "hostname": "PC-043",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-044",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-045",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-24"
+    },
+    {
+        "hostname": "PC-046",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-19"
+    },
+    {
+        "hostname": "PC-047",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-13"
+    },
+    {
+        "hostname": "PC-048",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-13"
+    },
+    {
+        "hostname": "PC-049",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-10"
+    },
+    {
+        "hostname": "PC-050",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-12"
+    },
+    {
+        "hostname": "PC-051",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-052",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-24"
+    },
+    {
+        "hostname": "PC-053",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-054",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-26"
+    },
+    {
+        "hostname": "PC-055",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-19"
+    },
+    {
+        "hostname": "PC-056",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-11"
+    },
+    {
+        "hostname": "PC-057",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-16"
+    },
+    {
+        "hostname": "PC-058",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-19"
+    },
+    {
+        "hostname": "PC-059",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-18"
+    },
+    {
+        "hostname": "PC-060",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-061",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-28"
+    },
+    {
+        "hostname": "PC-062",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-14"
+    },
+    {
+        "hostname": "PC-063",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-12"
+    },
+    {
+        "hostname": "PC-064",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-17"
+    },
+    {
+        "hostname": "PC-065",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-066",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-20"
+    },
+    {
+        "hostname": "PC-067",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-068",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-15"
+    },
+    {
+        "hostname": "PC-069",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-070",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-14"
+    },
+    {
+        "hostname": "PC-071",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-072",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-18"
+    },
+    {
+        "hostname": "PC-073",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-074",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-075",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-27"
+    },
+    {
+        "hostname": "PC-076",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-12"
+    },
+    {
+        "hostname": "PC-077",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-11"
+    },
+    {
+        "hostname": "PC-078",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-24"
+    },
+    {
+        "hostname": "PC-079",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-25"
+    },
+    {
+        "hostname": "PC-080",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-10"
+    },
+    {
+        "hostname": "PC-081",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-22"
+    },
+    {
+        "hostname": "PC-082",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-12"
+    },
+    {
+        "hostname": "PC-083",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-18"
+    },
+    {
+        "hostname": "PC-084",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-22"
+    },
+    {
+        "hostname": "PC-085",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-26"
+    },
+    {
+        "hostname": "PC-086",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-087",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-10"
+    },
+    {
+        "hostname": "PC-088",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-27"
+    },
+    {
+        "hostname": "PC-089",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-13"
+    },
+    {
+        "hostname": "PC-090",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-091",
+        "edr_installed": true,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-092",
+        "edr_installed": true,
+        "edr_version": "2.2.9",
+        "last_check_in": "2024-03-15"
+    },
+    {
+        "hostname": "PC-093",
+        "edr_installed": false,
+        "edr_version": "2.2.9",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-094",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "N/A"
+    },
+    {
+        "hostname": "PC-095",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-25"
+    },
+    {
+        "hostname": "PC-096",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-23"
+    },
+    {
+        "hostname": "PC-097",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-16"
+    },
+    {
+        "hostname": "PC-098",
+        "edr_installed": false,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-10"
+    },
+    {
+        "hostname": "PC-099",
+        "edr_installed": true,
+        "edr_version": "2.3.1",
+        "last_check_in": "2024-03-26"
+    },
+    {
+        "hostname": "PC-100",
+        "edr_installed": false,
+        "edr_version": "N/A",
+        "last_check_in": "2024-03-23"
+    }
+]
