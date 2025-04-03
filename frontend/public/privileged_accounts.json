@@ -1,0 +1,366 @@
+{
+  "total_privileged_accounts": 45,
+  "reviewed_accounts": 38,
+  "privileged_accounts_details": [
+    {
+      "account_id": "user_001",
+      "username": "bsimon",
+      "department": "HR",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-09",
+      "next_review_due": "2024-05-09"
+    },
+    {
+      "account_id": "user_002",
+      "username": "admin.analytics",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-16",
+      "next_review_due": "2024-06-14"
+    },
+    {
+      "account_id": "user_004",
+      "username": "jmoreau",
+      "department": "Engineering",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-12",
+      "next_review_due": "2024-06-10"
+    },
+    {
+      "account_id": "user_007",
+      "username": "amartin",
+      "department": "HR",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-05",
+      "next_review_due": "2024-06-03"
+    },
+    {
+      "account_id": "user_008",
+      "username": "jdurand",
+      "department": "Marketing",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-03",
+      "next_review_due": "2024-05-03"
+    },
+    {
+      "account_id": "user_010",
+      "username": "shared.analytics",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-05",
+      "next_review_due": "2024-05-05"
+    },
+    {
+      "account_id": "user_012",
+      "username": "admin.crm",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-09",
+      "next_review_due": "2024-06-07"
+    },
+    {
+      "account_id": "user_013",
+      "username": "froux",
+      "department": "Engineering",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-25",
+      "next_review_due": "2024-05-25"
+    },
+    {
+      "account_id": "user_016",
+      "username": "pdupont",
+      "department": "Administration",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-06",
+      "next_review_due": "2024-05-06"
+    },
+    {
+      "account_id": "user_019",
+      "username": "vrichard",
+      "department": "Marketing",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-11",
+      "next_review_due": "2024-06-09"
+    },
+    {
+      "account_id": "user_021",
+      "username": "proux",
+      "department": "Marketing",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-14",
+      "next_review_due": "2024-05-14"
+    },
+    {
+      "account_id": "user_022",
+      "username": "cduval",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-13",
+      "next_review_due": "2024-06-11"
+    },
+    {
+      "account_id": "user_023",
+      "username": "bmartin",
+      "department": "Finance",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-16",
+      "next_review_due": "2024-06-14"
+    },
+    {
+      "account_id": "user_025",
+      "username": "cdurand",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-13",
+      "next_review_due": "2024-06-11"
+    },
+    {
+      "account_id": "user_026",
+      "username": "sdupont",
+      "department": "Customer Support",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-22",
+      "next_review_due": "2024-05-22"
+    },
+    {
+      "account_id": "user_027",
+      "username": "shared.monitor",
+      "department": "Marketing",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-08",
+      "next_review_due": "2024-05-08"
+    },
+    {
+      "account_id": "user_028",
+      "username": "dbernard",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-03",
+      "next_review_due": "2024-06-01"
+    },
+    {
+      "account_id": "user_029",
+      "username": "bpetit",
+      "department": "Marketing",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-07",
+      "next_review_due": "2024-06-05"
+    },
+    {
+      "account_id": "user_030",
+      "username": "jsimon",
+      "department": "Engineering",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-06",
+      "next_review_due": "2024-06-04"
+    },
+    {
+      "account_id": "user_035",
+      "username": "mrobert",
+      "department": "Engineering",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-09",
+      "next_review_due": "2024-05-09"
+    },
+    {
+      "account_id": "user_040",
+      "username": "brobert",
+      "department": "Customer Support",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-16",
+      "next_review_due": "2024-06-14"
+    },
+    {
+      "account_id": "user_042",
+      "username": "shared.backup",
+      "department": "Sales",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-02",
+      "next_review_due": "2024-05-31"
+    },
+    {
+      "account_id": "user_046",
+      "username": "plegrand",
+      "department": "HR",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-12",
+      "next_review_due": "2024-05-12"
+    },
+    {
+      "account_id": "user_047",
+      "username": "cmoreau",
+      "department": "Engineering",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-27",
+      "next_review_due": "2024-05-27"
+    },
+    {
+      "account_id": "user_057",
+      "username": "shared.database",
+      "department": "Customer Support",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-04",
+      "next_review_due": "2024-05-04"
+    },
+    {
+      "account_id": "user_059",
+      "username": "cdurand",
+      "department": "Administration",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-23",
+      "next_review_due": "2024-05-23"
+    },
+    {
+      "account_id": "user_060",
+      "username": "shared.mailbox",
+      "department": "Customer Support",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-16",
+      "next_review_due": "2024-06-14"
+    },
+    {
+      "account_id": "user_061",
+      "username": "croux",
+      "department": "Finance",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-06",
+      "next_review_due": "2024-06-04"
+    },
+    {
+      "account_id": "user_062",
+      "username": "pfontaine",
+      "department": "Customer Support",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-02",
+      "next_review_due": "2024-05-02"
+    },
+    {
+      "account_id": "user_066",
+      "username": "jpetit",
+      "department": "Administration",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-01",
+      "next_review_due": "2024-05-01"
+    },
+    {
+      "account_id": "user_068",
+      "username": "lsimon",
+      "department": "Customer Support",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-02",
+      "next_review_due": "2024-05-31"
+    },
+    {
+      "account_id": "user_069",
+      "username": "apetit",
+      "department": "Finance",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-01",
+      "next_review_due": "2024-05-30"
+    },
+    {
+      "account_id": "user_070",
+      "username": "jgirard",
+      "department": "Engineering",
+      "review_status": "reviewed",
+      "last_review_date": "2024-03-19",
+      "next_review_due": "2024-06-17"
+    },
+    {
+      "account_id": "user_074",
+      "username": "admin.notification",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-09",
+      "next_review_due": "2024-05-09"
+    },
+    {
+      "account_id": "user_075",
+      "username": "admin.notification",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-24",
+      "next_review_due": "2024-05-24"
+    },
+    {
+      "account_id": "user_078",
+      "username": "vblanc",
+      "department": "Engineering",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-04",
+      "next_review_due": "2024-05-04"
+    },
+    {
+      "account_id": "user_081",
+      "username": "admin.scheduler",
+      "department": "IT",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-17",
+      "next_review_due": "2024-05-17"
+    },
+    {
+      "account_id": "user_084",
+      "username": "jrobert",
+      "department": "HR",
+      "review_status": "reviewed",
+      "last_review_date": "2024-02-09",
+      "next_review_due": "2024-05-09"
+    },
+    {
+      "account_id": "user_086",
+      "username": "ssimon",
+      "department": "Marketing",
+      "review_status": "pending",
+      "last_review_date": null,
+      "next_review_due": null
+    },
+    {
+      "account_id": "user_088",
+      "username": "vsimon",
+      "department": "Sales",
+      "review_status": "pending",
+      "last_review_date": null,
+      "next_review_due": null
+    },
+    {
+      "account_id": "user_090",
+      "username": "tfontaine",
+      "department": "Sales",
+      "review_status": "pending",
+      "last_review_date": null,
+      "next_review_due": null
+    },
+    {
+      "account_id": "user_091",
+      "username": "ppetit",
+      "department": "Administration",
+      "review_status": "pending",
+      "last_review_date": null,
+      "next_review_due": null
+    },
+    {
+      "account_id": "user_097",
+      "username": "ffontaine",
+      "department": "Customer Support",
+      "review_status": "pending",
+      "last_review_date": null,
+      "next_review_due": null
+    },
+    {
+      "account_id": "user_099",
+      "username": "cleroy",
+      "department": "Marketing",
+      "review_status": "pending",
+      "last_review_date": null,
+      "next_review_due": null
+    },
+    {
+      "account_id": "user_100",
+      "username": "admin.database",
+      "department": "IT",
+      "review_status": "pending",
+      "last_review_date": null,
+      "next_review_due": null
+    }
+  ]
+}

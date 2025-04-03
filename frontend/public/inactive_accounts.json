@@ -1,0 +1,358 @@
+{
+  "total_inactive_accounts": 44,
+  "removed_accounts": 34,
+  "inactive_accounts_details": [
+    {
+      "id": "user_101",
+      "username": "mleroy_old",
+      "last_login": "2023-05-24",
+      "status": "removed",
+      "removal_date": "2023-08-13",
+      "department": "Finance"
+    },
+    {
+      "id": "user_102",
+      "username": "vmoreau_old",
+      "last_login": "2023-04-13",
+      "status": "removed",
+      "removal_date": "2023-10-10",
+      "department": "Customer Support"
+    },
+    {
+      "id": "user_103",
+      "username": "nleroy_old",
+      "last_login": "2023-06-25",
+      "status": "removed",
+      "removal_date": "2023-10-23",
+      "department": "IT"
+    },
+    {
+      "id": "user_104",
+      "username": "jsimon_old",
+      "last_login": "2023-06-08",
+      "status": "removed",
+      "removal_date": "2023-08-08",
+      "department": "IT"
+    },
+    {
+      "id": "user_105",
+      "username": "temp.legacy",
+      "last_login": "2023-06-30",
+      "status": "removed",
+      "removal_date": "2023-09-09",
+      "department": "Marketing"
+    },
+    {
+      "id": "user_106",
+      "username": "mmoreau_old",
+      "last_login": "2023-06-01",
+      "status": "removed",
+      "removal_date": "2023-08-14",
+      "department": "Customer Support"
+    },
+    {
+      "id": "user_107",
+      "username": "cleroy_old",
+      "last_login": "2023-07-11",
+      "status": "removed",
+      "removal_date": "2023-10-10",
+      "department": "Customer Support"
+    },
+    {
+      "id": "user_108",
+      "username": "tleroy_old",
+      "last_login": "2023-06-06",
+      "status": "removed",
+      "removal_date": "2023-10-04",
+      "department": "IT"
+    },
+    {
+      "id": "user_109",
+      "username": "tmoreau_old",
+      "last_login": "2023-07-07",
+      "status": "removed",
+      "removal_date": "2023-08-31",
+      "department": "Sales"
+    },
+    {
+      "id": "user_110",
+      "username": "cbernard_old",
+      "last_login": "2023-04-08",
+      "status": "removed",
+      "removal_date": "2023-10-29",
+      "department": "IT"
+    },
+    {
+      "id": "user_111",
+      "username": "tpetit_old",
+      "last_login": "2023-07-17",
+      "status": "removed",
+      "removal_date": "2023-08-26",
+      "department": "Sales"
+    },
+    {
+      "id": "user_112",
+      "username": "jdupont_old",
+      "last_login": "2023-07-16",
+      "status": "removed",
+      "removal_date": "2023-09-28",
+      "department": "Customer Support"
+    },
+    {
+      "id": "user_113",
+      "username": "sdurand_old",
+      "last_login": "2023-04-26",
+      "status": "removed",
+      "removal_date": "2023-07-08",
+      "department": "HR"
+    },
+    {
+      "id": "user_114",
+      "username": "project.archive",
+      "last_login": "2023-06-04",
+      "status": "removed",
+      "removal_date": "2023-10-17",
+      "department": "Customer Support"
+    },
+    {
+      "id": "user_115",
+      "username": "cmartin_old",
+      "last_login": "2023-08-06",
+      "status": "removed",
+      "removal_date": "2023-10-06",
+      "department": "Administration"
+    },
+    {
+      "id": "user_116",
+      "username": "vdurand_old",
+      "last_login": "2023-04-20",
+      "status": "removed",
+      "removal_date": "2023-10-15",
+      "department": "Finance"
+    },
+    {
+      "id": "user_117",
+      "username": "nleroy_old",
+      "last_login": "2023-05-16",
+      "status": "removed",
+      "removal_date": "2023-09-12",
+      "department": "Administration"
+    },
+    {
+      "id": "user_118",
+      "username": "project.legacy",
+      "last_login": "2023-05-04",
+      "status": "removed",
+      "removal_date": "2023-07-01",
+      "department": "Finance"
+    },
+    {
+      "id": "user_119",
+      "username": "admin.archive",
+      "last_login": "2023-06-01",
+      "status": "removed",
+      "removal_date": "2023-09-13",
+      "department": "Engineering"
+    },
+    {
+      "id": "user_120",
+      "username": "sleroy_old",
+      "last_login": "2023-06-30",
+      "status": "removed",
+      "removal_date": "2023-09-27",
+      "department": "Finance"
+    },
+    {
+      "id": "user_121",
+      "username": "sbernard_old",
+      "last_login": "2023-04-18",
+      "status": "removed",
+      "removal_date": "2023-08-07",
+      "department": "HR"
+    },
+    {
+      "id": "user_122",
+      "username": "service.oldapp",
+      "last_login": "2023-04-11",
+      "status": "removed",
+      "removal_date": "2023-08-03",
+      "department": "Engineering"
+    },
+    {
+      "id": "user_123",
+      "username": "admin.backup",
+      "last_login": "2023-05-30",
+      "status": "removed",
+      "removal_date": "2023-09-14",
+      "department": "Engineering"
+    },
+    {
+      "id": "user_124",
+      "username": "vpetit_old",
+      "last_login": "2023-05-22",
+      "status": "removed",
+      "removal_date": "2023-06-23",
+      "department": "Sales"
+    },
+    {
+      "id": "user_125",
+      "username": "admin.backup",
+      "last_login": "2023-04-24",
+      "status": "removed",
+      "removal_date": "2023-06-05",
+      "department": "IT"
+    },
+    {
+      "id": "user_126",
+      "username": "mleroy_old",
+      "last_login": "2023-07-20",
+      "status": "removed",
+      "removal_date": "2023-09-28",
+      "department": "Sales"
+    },
+    {
+      "id": "user_127",
+      "username": "service.legacy",
+      "last_login": "2023-05-31",
+      "status": "removed",
+      "removal_date": "2023-10-05",
+      "department": "IT"
+    },
+    {
+      "id": "user_128",
+      "username": "tbernard_old",
+      "last_login": "2023-05-25",
+      "status": "removed",
+      "removal_date": "2023-09-05",
+      "department": "Engineering"
+    },
+    {
+      "id": "user_129",
+      "username": "ssimon_old",
+      "last_login": "2023-05-17",
+      "status": "removed",
+      "removal_date": "2023-07-25",
+      "department": "HR"
+    },
+    {
+      "id": "user_130",
+      "username": "project.archive",
+      "last_login": "2023-04-18",
+      "status": "removed",
+      "removal_date": "2023-09-21",
+      "department": "Engineering"
+    },
+    {
+      "id": "user_131",
+      "username": "smoreau_old",
+      "last_login": "2023-05-19",
+      "status": "removed",
+      "removal_date": "2023-09-12",
+      "department": "Engineering"
+    },
+    {
+      "id": "user_132",
+      "username": "service.backup",
+      "last_login": "2023-05-29",
+      "status": "removed",
+      "removal_date": "2023-09-03",
+      "department": "Finance"
+    },
+    {
+      "id": "user_133",
+      "username": "vsimon_old",
+      "last_login": "2023-06-22",
+      "status": "removed",
+      "removal_date": "2023-08-06",
+      "department": "Finance"
+    },
+    {
+      "id": "user_134",
+      "username": "cleroy_old",
+      "last_login": "2023-08-08",
+      "status": "removed",
+      "removal_date": "2023-10-28",
+      "department": "IT"
+    },
+    {
+      "id": "user_135",
+      "username": "mleroy_old",
+      "last_login": "2023-07-27",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Sales"
+    },
+    {
+      "id": "user_136",
+      "username": "nsimon_old",
+      "last_login": "2023-06-06",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Administration"
+    },
+    {
+      "id": "user_137",
+      "username": "nmoreau_old",
+      "last_login": "2023-06-15",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Administration"
+    },
+    {
+      "id": "user_138",
+      "username": "vsimon_old",
+      "last_login": "2023-07-24",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Engineering"
+    },
+    {
+      "id": "user_139",
+      "username": "sdurand_old",
+      "last_login": "2023-04-09",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "HR"
+    },
+    {
+      "id": "user_140",
+      "username": "mdurand_old",
+      "last_login": "2023-06-04",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Marketing"
+    },
+    {
+      "id": "user_141",
+      "username": "project.deprecated",
+      "last_login": "2023-07-13",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Sales"
+    },
+    {
+      "id": "user_142",
+      "username": "project.legacy",
+      "last_login": "2023-04-10",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Sales"
+    },
+    {
+      "id": "user_143",
+      "username": "vleroy_old",
+      "last_login": "2023-07-27",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Marketing"
+    },
+    {
+      "id": "user_144",
+      "username": "npetit_old",
+      "last_login": "2023-04-02",
+      "status": "pending_removal",
+      "removal_date": null,
+      "department": "Finance"
+    }
+  ]
+}

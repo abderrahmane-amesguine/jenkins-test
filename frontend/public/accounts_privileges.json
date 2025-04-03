@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "user_001",
+    "username": "bsimon",
+    "role": "manager",
+    "department": "HR",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-08-19",
+    "last_review": "2024-02-09"
+  },
+  {
+    "id": "user_002",
+    "username": "admin.analytics",
+    "role": "administrator",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-12-26",
+    "last_review": "2024-03-16"
+  },
+  {
+    "id": "user_003",
+    "username": "vfontaine",
+    "role": "service",
+    "department": "Marketing",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-08-01",
+    "last_review": "2024-02-10"
+  },
+  {
+    "id": "user_004",
+    "username": "jmoreau",
+    "role": "manager",
+    "department": "Engineering",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-08-12",
+    "last_review": "2024-03-12"
+  },
+  {
+    "id": "user_005",
+    "username": "mfontaine",
+    "role": "user",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-07-28",
+    "last_review": "2024-02-12"
+  },
+  {
+    "id": "user_006",
+    "username": "pblanc",
+    "role": "developer",
+    "department": "HR",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-10-19",
+    "last_review": "2024-02-24"
+  },
+  {
+    "id": "user_007",
+    "username": "amartin",
+    "role": "manager",
+    "department": "HR",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-08-11",
+    "last_review": "2024-03-05"
+  },
+  {
+    "id": "user_008",
+    "username": "jdurand",
+    "role": "manager",
+    "department": "Marketing",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-10-05",
+    "last_review": "2024-02-03"
+  },
+  {
+    "id": "user_009",
+    "username": "vsimon",
+    "role": "user",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-04",
+    "last_review": "2024-03-04"
+  },
+  {
+    "id": "user_010",
+    "username": "shared.analytics",
+    "role": "user",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-08-14",
+    "last_review": "2024-02-05"
+  },
+  {
+    "id": "user_011",
+    "username": "cdupont",
+    "role": "user",
+    "department": "Marketing",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-01-09",
+    "last_review": "2024-02-05"
+  },
+  {
+    "id": "user_012",
+    "username": "admin.crm",
+    "role": "administrator",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-11-13",
+    "last_review": "2024-03-09"
+  },
+  {
+    "id": "user_013",
+    "username": "froux",
+    "role": "manager",
+    "department": "Engineering",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-08-28",
+    "last_review": "2024-02-25"
+  },
+  {
+    "id": "user_014",
+    "username": "bduval",
+    "role": "support",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-01-21",
+    "last_review": "2024-02-18"
+  },
+  {
+    "id": "user_015",
+    "username": "amartin",
+    "role": "service",
+    "department": "Customer Support",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-09",
+    "last_review": "2024-02-29"
+  },
+  {
+    "id": "user_016",
+    "username": "pdupont",
+    "role": "administrator",
+    "department": "Administration",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-10-30",
+    "last_review": "2024-02-06"
+  },
+  {
+    "id": "user_017",
+    "username": "jroux",
+    "role": "service",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-09-12",
+    "last_review": "2024-02-20"
+  },
+  {
+    "id": "user_018",
+    "username": "jfontaine",
+    "role": "analyst",
+    "department": "Finance",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-07-28",
+    "last_review": "2024-02-16"
+  },
+  {
+    "id": "user_019",
+    "username": "vrichard",
+    "role": "administrator",
+    "department": "Marketing",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-08-08",
+    "last_review": "2024-03-11"
+  },
+  {
+    "id": "user_020",
+    "username": "ffontaine",
+    "role": "user",
+    "department": "Finance",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-10-19",
+    "last_review": "2024-03-02"
+  },
+  {
+    "id": "user_021",
+    "username": "proux",
+    "role": "analyst",
+    "department": "Marketing",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-10-31",
+    "last_review": "2024-02-14"
+  },
+  {
+    "id": "user_022",
+    "username": "cduval",
+    "role": "administrator",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2024-02-13",
+    "last_review": "2024-03-13"
+  },
+  {
+    "id": "user_023",
+    "username": "bmartin",
+    "role": "analyst",
+    "department": "Finance",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-12-22",
+    "last_review": "2024-03-16"
+  },
+  {
+    "id": "user_024",
+    "username": "smartin",
+    "role": "user",
+    "department": "Finance",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-09-19",
+    "last_review": "2024-03-11"
+  },
+  {
+    "id": "user_025",
+    "username": "cdurand",
+    "role": "administrator",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-07-13",
+    "last_review": "2024-03-13"
+  },
+  {
+    "id": "user_026",
+    "username": "sdupont",
+    "role": "administrator",
+    "department": "Customer Support",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-10-31",
+    "last_review": "2024-02-22"
+  },
+  {
+    "id": "user_027",
+    "username": "shared.monitor",
+    "role": "user",
+    "department": "Marketing",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-08-05",
+    "last_review": "2024-02-08"
+  },
+  {
+    "id": "user_028",
+    "username": "dbernard",
+    "role": "analyst",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-09-03",
+    "last_review": "2024-03-03"
+  },
+  {
+    "id": "user_029",
+    "username": "bpetit",
+    "role": "administrator",
+    "department": "Marketing",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2024-01-08",
+    "last_review": "2024-03-07"
+  },
+  {
+    "id": "user_030",
+    "username": "jsimon",
+    "role": "administrator",
+    "department": "Engineering",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-10-04",
+    "last_review": "2024-03-06"
+  },
+  {
+    "id": "user_031",
+    "username": "service.crm",
+    "role": "service",
+    "department": "Finance",
+    "is_least_privilege": true,
+    "is_generic": true,
+    "creation_date": "2023-12-03",
+    "last_review": "2024-03-13"
+  },
+  {
+    "id": "user_032",
+    "username": "nblanc",
+    "role": "analyst",
+    "department": "Administration",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-12-05",
+    "last_review": "2024-02-06"
+  },
+  {
+    "id": "user_033",
+    "username": "asimon",
+    "role": "support",
+    "department": "Engineering",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-08-30",
+    "last_review": "2024-03-11"
+  },
+  {
+    "id": "user_034",
+    "username": "fmartin",
+    "role": "support",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-06",
+    "last_review": "2024-02-22"
+  },
+  {
+    "id": "user_035",
+    "username": "mrobert",
+    "role": "administrator",
+    "department": "Engineering",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-08-08",
+    "last_review": "2024-02-09"
+  },
+  {
+    "id": "user_036",
+    "username": "tduval",
+    "role": "support",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-21",
+    "last_review": "2024-02-09"
+  },
+  {
+    "id": "user_037",
+    "username": "service.monitor",
+    "role": "service",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": true,
+    "creation_date": "2023-09-25",
+    "last_review": "2024-02-11"
+  },
+  {
+    "id": "user_038",
+    "username": "bdupont",
+    "role": "developer",
+    "department": "Marketing",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-29",
+    "last_review": "2024-02-19"
+  },
+  {
+    "id": "user_039",
+    "username": "fpetit",
+    "role": "user",
+    "department": "Marketing",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-10-13",
+    "last_review": "2024-02-25"
+  },
+  {
+    "id": "user_040",
+    "username": "brobert",
+    "role": "administrator",
+    "department": "Customer Support",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-12-06",
+    "last_review": "2024-03-16"
+  },
+  {
+    "id": "user_041",
+    "username": "jleroy",
+    "role": "developer",
+    "department": "Marketing",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-01-25",
+    "last_review": "2024-02-25"
+  },
+  {
+    "id": "user_042",
+    "username": "shared.backup",
+    "role": "user",
+    "department": "Sales",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-10-11",
+    "last_review": "2024-03-02"
+  },
+  {
+    "id": "user_043",
+    "username": "cmoreau",
+    "role": "developer",
+    "department": "Engineering",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-01",
+    "last_review": "2024-02-29"
+  },
+  {
+    "id": "user_044",
+    "username": "lblanc",
+    "role": "user",
+    "department": "Marketing",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-09-28",
+    "last_review": "2024-02-03"
+  },
+  {
+    "id": "user_045",
+    "username": "tfontaine",
+    "role": "service",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-12-05",
+    "last_review": "2024-02-23"
+  },
+  {
+    "id": "user_046",
+    "username": "plegrand",
+    "role": "administrator",
+    "department": "HR",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-12-24",
+    "last_review": "2024-02-12"
+  },
+  {
+    "id": "user_047",
+    "username": "cmoreau",
+    "role": "support",
+    "department": "Engineering",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2024-01-27",
+    "last_review": "2024-02-27"
+  },
+  {
+    "id": "user_048",
+    "username": "aduval",
+    "role": "developer",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-07-11",
+    "last_review": "2024-02-03"
+  },
+  {
+    "id": "user_049",
+    "username": "sduval",
+    "role": "service",
+    "department": "HR",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-01-29",
+    "last_review": "2024-02-22"
+  },
+  {
+    "id": "user_050",
+    "username": "jdupont",
+    "role": "analyst",
+    "department": "Marketing",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-04",
+    "last_review": "2024-03-12"
+  },
+  {
+    "id": "user_051",
+    "username": "mmartin",
+    "role": "analyst",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-08-06",
+    "last_review": "2024-02-16"
+  },
+  {
+    "id": "user_052",
+    "username": "vmoreau",
+    "role": "service",
+    "department": "Finance",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-01-20",
+    "last_review": "2024-03-18"
+  },
+  {
+    "id": "user_053",
+    "username": "jsimon",
+    "role": "service",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-25",
+    "last_review": "2024-03-08"
+  },
+  {
+    "id": "user_054",
+    "username": "cmoreau",
+    "role": "user",
+    "department": "Customer Support",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-06",
+    "last_review": "2024-02-24"
+  },
+  {
+    "id": "user_055",
+    "username": "probert",
+    "role": "developer",
+    "department": "Customer Support",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-07-03",
+    "last_review": "2024-02-18"
+  },
+  {
+    "id": "user_056",
+    "username": "bmoreau",
+    "role": "support",
+    "department": "HR",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-20",
+    "last_review": "2024-02-11"
+  },
+  {
+    "id": "user_057",
+    "username": "shared.database",
+    "role": "user",
+    "department": "Customer Support",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2024-01-19",
+    "last_review": "2024-02-04"
+  },
+  {
+    "id": "user_058",
+    "username": "jroux",
+    "role": "service",
+    "department": "Engineering",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-10-21",
+    "last_review": "2024-02-26"
+  },
+  {
+    "id": "user_059",
+    "username": "cdurand",
+    "role": "administrator",
+    "department": "Administration",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2024-02-12",
+    "last_review": "2024-02-23"
+  },
+  {
+    "id": "user_060",
+    "username": "shared.mailbox",
+    "role": "user",
+    "department": "Customer Support",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-09-30",
+    "last_review": "2024-03-16"
+  },
+  {
+    "id": "user_061",
+    "username": "croux",
+    "role": "manager",
+    "department": "Finance",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-09-21",
+    "last_review": "2024-03-06"
+  },
+  {
+    "id": "user_062",
+    "username": "pfontaine",
+    "role": "manager",
+    "department": "Customer Support",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-09-27",
+    "last_review": "2024-02-02"
+  },
+  {
+    "id": "user_063",
+    "username": "crichard",
+    "role": "user",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-12-28",
+    "last_review": "2024-03-01"
+  },
+  {
+    "id": "user_064",
+    "username": "nrobert",
+    "role": "service",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-22",
+    "last_review": "2024-03-05"
+  },
+  {
+    "id": "user_065",
+    "username": "fgirard",
+    "role": "developer",
+    "department": "HR",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-10-05",
+    "last_review": "2024-03-05"
+  },
+  {
+    "id": "user_066",
+    "username": "jpetit",
+    "role": "support",
+    "department": "Administration",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-11-27",
+    "last_review": "2024-02-01"
+  },
+  {
+    "id": "user_067",
+    "username": "dbernard",
+    "role": "support",
+    "department": "Customer Support",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-09-26",
+    "last_review": "2024-02-19"
+  },
+  {
+    "id": "user_068",
+    "username": "lsimon",
+    "role": "administrator",
+    "department": "Customer Support",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2024-02-18",
+    "last_review": "2024-03-02"
+  },
+  {
+    "id": "user_069",
+    "username": "apetit",
+    "role": "manager",
+    "department": "Finance",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-11-02",
+    "last_review": "2024-03-01"
+  },
+  {
+    "id": "user_070",
+    "username": "jgirard",
+    "role": "administrator",
+    "department": "Engineering",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-08-16",
+    "last_review": "2024-03-19"
+  },
+  {
+    "id": "user_071",
+    "username": "mrichard",
+    "role": "service",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-10-12",
+    "last_review": "2024-02-13"
+  },
+  {
+    "id": "user_072",
+    "username": "jduval",
+    "role": "support",
+    "department": "Engineering",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-08-22",
+    "last_review": "2024-02-07"
+  },
+  {
+    "id": "user_073",
+    "username": "pbernard",
+    "role": "support",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-08-21",
+    "last_review": "2024-03-04"
+  },
+  {
+    "id": "user_074",
+    "username": "admin.notification",
+    "role": "administrator",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-10-03",
+    "last_review": "2024-02-09"
+  },
+  {
+    "id": "user_075",
+    "username": "admin.notification",
+    "role": "administrator",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2024-02-09",
+    "last_review": "2024-02-24"
+  },
+  {
+    "id": "user_076",
+    "username": "pleroy",
+    "role": "user",
+    "department": "Engineering",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-01-27",
+    "last_review": "2024-03-18"
+  },
+  {
+    "id": "user_077",
+    "username": "dpetit",
+    "role": "service",
+    "department": "Sales",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-12-04",
+    "last_review": "2024-03-17"
+  },
+  {
+    "id": "user_078",
+    "username": "vblanc",
+    "role": "administrator",
+    "department": "Engineering",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2024-01-15",
+    "last_review": "2024-02-04"
+  },
+  {
+    "id": "user_079",
+    "username": "vlegrand",
+    "role": "service",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-10-19",
+    "last_review": "2024-03-19"
+  },
+  {
+    "id": "user_080",
+    "username": "sgirard",
+    "role": "analyst",
+    "department": "HR",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-12",
+    "last_review": "2024-03-13"
+  },
+  {
+    "id": "user_081",
+    "username": "admin.scheduler",
+    "role": "administrator",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-10-05",
+    "last_review": "2024-02-17"
+  },
+  {
+    "id": "user_082",
+    "username": "tgirard",
+    "role": "service",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-29",
+    "last_review": "2024-02-16"
+  },
+  {
+    "id": "user_083",
+    "username": "cmoreau",
+    "role": "service",
+    "department": "Administration",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-16",
+    "last_review": "2024-02-24"
+  },
+  {
+    "id": "user_084",
+    "username": "jrobert",
+    "role": "service",
+    "department": "HR",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-12-09",
+    "last_review": "2024-02-09"
+  },
+  {
+    "id": "user_085",
+    "username": "jsimon",
+    "role": "user",
+    "department": "Customer Support",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-12-15",
+    "last_review": "2024-03-09"
+  },
+  {
+    "id": "user_086",
+    "username": "ssimon",
+    "role": "administrator",
+    "department": "Marketing",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2024-02-13",
+    "last_review": "2024-02-26"
+  },
+  {
+    "id": "user_087",
+    "username": "afontaine",
+    "role": "support",
+    "department": "Marketing",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-24",
+    "last_review": "2024-03-06"
+  },
+  {
+    "id": "user_088",
+    "username": "vsimon",
+    "role": "manager",
+    "department": "Sales",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-08-28",
+    "last_review": "2024-02-23"
+  },
+  {
+    "id": "user_089",
+    "username": "brobert",
+    "role": "support",
+    "department": "HR",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-09-26",
+    "last_review": "2024-03-14"
+  },
+  {
+    "id": "user_090",
+    "username": "tfontaine",
+    "role": "administrator",
+    "department": "Sales",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-11-20",
+    "last_review": "2024-02-06"
+  },
+  {
+    "id": "user_091",
+    "username": "ppetit",
+    "role": "manager",
+    "department": "Administration",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-11-30",
+    "last_review": "2024-02-01"
+  },
+  {
+    "id": "user_092",
+    "username": "sbernard",
+    "role": "developer",
+    "department": "Engineering",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-07-30",
+    "last_review": "2024-03-13"
+  },
+  {
+    "id": "user_093",
+    "username": "lsimon",
+    "role": "user",
+    "department": "HR",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-12-06",
+    "last_review": "2024-02-09"
+  },
+  {
+    "id": "user_094",
+    "username": "bpetit",
+    "role": "analyst",
+    "department": "IT",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-20",
+    "last_review": "2024-03-04"
+  },
+  {
+    "id": "user_095",
+    "username": "vmartin",
+    "role": "service",
+    "department": "Finance",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-26",
+    "last_review": "2024-03-19"
+  },
+  {
+    "id": "user_096",
+    "username": "dmoreau",
+    "role": "support",
+    "department": "Administration",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2023-11-15",
+    "last_review": "2024-02-27"
+  },
+  {
+    "id": "user_097",
+    "username": "ffontaine",
+    "role": "administrator",
+    "department": "Customer Support",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-09-15",
+    "last_review": "2024-02-09"
+  },
+  {
+    "id": "user_098",
+    "username": "jroux",
+    "role": "analyst",
+    "department": "Administration",
+    "is_least_privilege": true,
+    "is_generic": false,
+    "creation_date": "2024-02-05",
+    "last_review": "2024-02-22"
+  },
+  {
+    "id": "user_099",
+    "username": "cleroy",
+    "role": "manager",
+    "department": "Marketing",
+    "is_least_privilege": false,
+    "is_generic": false,
+    "creation_date": "2023-12-04",
+    "last_review": "2024-03-05"
+  },
+  {
+    "id": "user_100",
+    "username": "admin.database",
+    "role": "administrator",
+    "department": "IT",
+    "is_least_privilege": false,
+    "is_generic": true,
+    "creation_date": "2023-11-07",
+    "last_review": "2024-02-17"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "request_id": "rev_001",
+    "account_id": "user_099",
+    "request_date": "2025-03-27 14:27:09",
+    "completion_date": "2025-03-27 20:11:03",
+    "revocation_time_hours": 5.73,
+    "reason": "role_change",
+    "priority": "high",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_002",
+    "account_id": "user_117",
+    "request_date": "2025-03-04 14:27:09",
+    "completion_date": "2025-03-06 13:14:59",
+    "revocation_time_hours": 46.8,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_003",
+    "account_id": "user_052",
+    "request_date": "2025-03-03 14:27:09",
+    "completion_date": "2025-03-04 00:45:20",
+    "revocation_time_hours": 10.3,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_004",
+    "account_id": "user_056",
+    "request_date": "2025-03-23 14:27:09",
+    "completion_date": "2025-03-25 01:06:16",
+    "revocation_time_hours": 34.65,
+    "reason": "termination",
+    "priority": "high",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_005",
+    "account_id": "user_145",
+    "request_date": "2025-02-19 14:27:09",
+    "completion_date": "2025-02-20 03:48:54",
+    "revocation_time_hours": 13.36,
+    "reason": "role_change",
+    "priority": "low",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_006",
+    "account_id": "user_124",
+    "request_date": "2025-02-28 14:27:09",
+    "completion_date": "2025-03-01 15:00:59",
+    "revocation_time_hours": 24.56,
+    "reason": "termination",
+    "priority": "high",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_007",
+    "account_id": "user_051",
+    "request_date": "2025-02-15 14:27:09",
+    "completion_date": "2025-02-16 01:02:07",
+    "revocation_time_hours": 10.58,
+    "reason": "transfer",
+    "priority": "low",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_008",
+    "account_id": "user_024",
+    "request_date": "2025-02-07 14:27:09",
+    "completion_date": "2025-02-08 12:17:34",
+    "revocation_time_hours": 21.84,
+    "reason": "role_change",
+    "priority": "high",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_009",
+    "account_id": "user_032",
+    "request_date": "2025-02-16 14:27:09",
+    "completion_date": "2025-02-17 21:35:24",
+    "revocation_time_hours": 31.14,
+    "reason": "security_incident",
+    "priority": "high",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_010",
+    "account_id": "user_015",
+    "request_date": "2025-03-20 14:27:09",
+    "completion_date": "2025-03-20 17:00:42",
+    "revocation_time_hours": 2.56,
+    "reason": "transfer",
+    "priority": "high",
+    "completed_by": "admin_2"
+  },
+  {
+    "request_id": "rev_011",
+    "account_id": "user_072",
+    "request_date": "2025-02-04 14:27:09",
+    "completion_date": "2025-02-04 18:01:51",
+    "revocation_time_hours": 3.58,
+    "reason": "security_incident",
+    "priority": "low",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_012",
+    "account_id": "user_149",
+    "request_date": "2025-02-01 14:27:09",
+    "completion_date": "2025-02-02 09:12:09",
+    "revocation_time_hours": 18.75,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_013",
+    "account_id": "user_101",
+    "request_date": "2025-03-29 14:27:09",
+    "completion_date": "2025-03-30 21:57:57",
+    "revocation_time_hours": 31.51,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_2"
+  },
+  {
+    "request_id": "rev_014",
+    "account_id": "user_110",
+    "request_date": "2025-02-08 14:27:09",
+    "completion_date": "2025-02-09 14:48:12",
+    "revocation_time_hours": 24.35,
+    "reason": "transfer",
+    "priority": "low",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_015",
+    "account_id": "user_068",
+    "request_date": "2025-03-01 14:27:09",
+    "completion_date": "2025-03-03 00:33:19",
+    "revocation_time_hours": 34.1,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_016",
+    "account_id": "user_104",
+    "request_date": "2025-03-11 14:27:09",
+    "completion_date": "2025-03-11 19:01:04",
+    "revocation_time_hours": 4.57,
+    "reason": "termination",
+    "priority": "low",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_017",
+    "account_id": "user_071",
+    "request_date": "2025-02-05 14:27:09",
+    "completion_date": "2025-02-05 17:42:01",
+    "revocation_time_hours": 3.25,
+    "reason": "transfer",
+    "priority": "low",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_018",
+    "account_id": "user_104",
+    "request_date": "2025-02-20 14:27:09",
+    "completion_date": "2025-02-21 13:04:12",
+    "revocation_time_hours": 22.62,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_019",
+    "account_id": "user_102",
+    "request_date": "2025-03-10 14:27:09",
+    "completion_date": "2025-03-12 05:21:18",
+    "revocation_time_hours": 38.9,
+    "reason": "termination",
+    "priority": "medium",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_020",
+    "account_id": "user_138",
+    "request_date": "2025-02-06 14:27:09",
+    "completion_date": "2025-02-07 14:23:58",
+    "revocation_time_hours": 23.95,
+    "reason": "security_incident",
+    "priority": "medium",
+    "completed_by": "admin_2"
+  },
+  {
+    "request_id": "rev_021",
+    "account_id": "user_123",
+    "request_date": "2025-02-27 14:27:09",
+    "completion_date": "2025-02-28 15:01:13",
+    "revocation_time_hours": 24.57,
+    "reason": "transfer",
+    "priority": "high",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_022",
+    "account_id": "user_012",
+    "request_date": "2025-02-01 14:27:09",
+    "completion_date": "2025-02-03 09:04:03",
+    "revocation_time_hours": 42.61,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_023",
+    "account_id": "user_002",
+    "request_date": "2025-02-02 14:27:09",
+    "completion_date": "2025-02-02 18:06:40",
+    "revocation_time_hours": 3.66,
+    "reason": "termination",
+    "priority": "high",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_024",
+    "account_id": "user_105",
+    "request_date": "2025-03-17 14:27:09",
+    "completion_date": "2025-03-17 23:27:21",
+    "revocation_time_hours": 9.0,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_025",
+    "account_id": "user_130",
+    "request_date": "2025-02-16 14:27:09",
+    "completion_date": "2025-02-17 09:12:49",
+    "revocation_time_hours": 18.76,
+    "reason": "transfer",
+    "priority": "high",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_026",
+    "account_id": "user_103",
+    "request_date": "2025-02-14 14:27:09",
+    "completion_date": "2025-02-14 23:47:28",
+    "revocation_time_hours": 9.34,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_2"
+  },
+  {
+    "request_id": "rev_027",
+    "account_id": "user_090",
+    "request_date": "2025-02-16 14:27:09",
+    "completion_date": "2025-02-18 09:20:59",
+    "revocation_time_hours": 42.9,
+    "reason": "termination",
+    "priority": "low",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_028",
+    "account_id": "user_028",
+    "request_date": "2025-02-05 14:27:09",
+    "completion_date": "2025-02-06 07:42:30",
+    "revocation_time_hours": 17.26,
+    "reason": "leave_of_absence",
+    "priority": "high",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_029",
+    "account_id": "user_075",
+    "request_date": "2025-02-28 14:27:09",
+    "completion_date": "2025-02-28 16:57:37",
+    "revocation_time_hours": 2.51,
+    "reason": "transfer",
+    "priority": "medium",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_030",
+    "account_id": "user_102",
+    "request_date": "2025-03-03 14:27:09",
+    "completion_date": "2025-03-04 03:49:56",
+    "revocation_time_hours": 13.38,
+    "reason": "security_incident",
+    "priority": "low",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_031",
+    "account_id": "user_117",
+    "request_date": "2025-02-25 14:27:09",
+    "completion_date": "2025-02-26 01:55:04",
+    "revocation_time_hours": 11.47,
+    "reason": "role_change",
+    "priority": "high",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_032",
+    "account_id": "user_150",
+    "request_date": "2025-03-21 14:27:09",
+    "completion_date": "2025-03-22 07:16:55",
+    "revocation_time_hours": 16.83,
+    "reason": "transfer",
+    "priority": "high",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_033",
+    "account_id": "user_147",
+    "request_date": "2025-03-01 14:27:09",
+    "completion_date": "2025-03-02 02:18:59",
+    "revocation_time_hours": 11.86,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_034",
+    "account_id": "user_058",
+    "request_date": "2025-03-24 14:27:09",
+    "completion_date": "2025-03-24 18:50:36",
+    "revocation_time_hours": 4.39,
+    "reason": "termination",
+    "priority": "low",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_035",
+    "account_id": "user_017",
+    "request_date": "2025-03-30 14:27:09",
+    "completion_date": "2025-03-30 21:53:37",
+    "revocation_time_hours": 7.44,
+    "reason": "security_incident",
+    "priority": "low",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_036",
+    "account_id": "user_042",
+    "request_date": "2025-02-21 14:27:09",
+    "completion_date": "2025-02-22 09:43:46",
+    "revocation_time_hours": 19.28,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_037",
+    "account_id": "user_053",
+    "request_date": "2025-03-03 14:27:09",
+    "completion_date": "2025-03-04 08:02:23",
+    "revocation_time_hours": 17.59,
+    "reason": "security_incident",
+    "priority": "medium",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_038",
+    "account_id": "user_006",
+    "request_date": "2025-02-19 14:27:09",
+    "completion_date": "2025-02-19 18:14:23",
+    "revocation_time_hours": 3.79,
+    "reason": "termination",
+    "priority": "low",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_039",
+    "account_id": "user_033",
+    "request_date": "2025-03-06 14:27:09",
+    "completion_date": "2025-03-07 04:01:05",
+    "revocation_time_hours": 13.57,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_040",
+    "account_id": "user_140",
+    "request_date": "2025-03-25 14:27:09",
+    "completion_date": "2025-03-25 21:43:04",
+    "revocation_time_hours": 7.27,
+    "reason": "termination",
+    "priority": "low",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_041",
+    "account_id": "user_018",
+    "request_date": "2025-02-24 14:27:09",
+    "completion_date": "2025-02-25 03:24:04",
+    "revocation_time_hours": 12.95,
+    "reason": "role_change",
+    "priority": "high",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_042",
+    "account_id": "user_104",
+    "request_date": "2025-03-22 14:27:09",
+    "completion_date": "2025-03-23 21:04:29",
+    "revocation_time_hours": 30.62,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_043",
+    "account_id": "user_137",
+    "request_date": "2025-02-17 14:27:09",
+    "completion_date": "2025-02-18 11:05:26",
+    "revocation_time_hours": 20.64,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_044",
+    "account_id": "user_005",
+    "request_date": "2025-03-02 14:27:09",
+    "completion_date": "2025-03-03 02:04:20",
+    "revocation_time_hours": 11.62,
+    "reason": "security_incident",
+    "priority": "high",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_045",
+    "account_id": "user_032",
+    "request_date": "2025-03-25 14:27:09",
+    "completion_date": "2025-03-26 10:52:24",
+    "revocation_time_hours": 20.42,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_046",
+    "account_id": "user_134",
+    "request_date": "2025-02-12 14:27:09",
+    "completion_date": "2025-02-13 11:45:42",
+    "revocation_time_hours": 21.31,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_047",
+    "account_id": "user_090",
+    "request_date": "2025-03-20 14:27:09",
+    "completion_date": "2025-03-21 02:22:26",
+    "revocation_time_hours": 11.92,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_048",
+    "account_id": "user_102",
+    "request_date": "2025-02-15 14:27:09",
+    "completion_date": "2025-02-15 20:14:17",
+    "revocation_time_hours": 5.79,
+    "reason": "leave_of_absence",
+    "priority": "high",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_049",
+    "account_id": "user_105",
+    "request_date": "2025-03-18 14:27:09",
+    "completion_date": "2025-03-19 05:58:53",
+    "revocation_time_hours": 15.53,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_050",
+    "account_id": "user_035",
+    "request_date": "2025-02-04 14:27:09",
+    "completion_date": "2025-02-06 14:08:52",
+    "revocation_time_hours": 47.7,
+    "reason": "transfer",
+    "priority": "low",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_051",
+    "account_id": "user_093",
+    "request_date": "2025-04-01 14:27:09",
+    "completion_date": "2025-04-01 19:07:07",
+    "revocation_time_hours": 4.67,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_052",
+    "account_id": "user_105",
+    "request_date": "2025-03-21 14:27:09",
+    "completion_date": "2025-03-22 08:19:44",
+    "revocation_time_hours": 17.88,
+    "reason": "termination",
+    "priority": "medium",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_053",
+    "account_id": "user_039",
+    "request_date": "2025-02-17 14:27:09",
+    "completion_date": "2025-02-19 00:37:51",
+    "revocation_time_hours": 34.18,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_054",
+    "account_id": "user_020",
+    "request_date": "2025-02-16 14:27:09",
+    "completion_date": "2025-02-16 18:05:23",
+    "revocation_time_hours": 3.64,
+    "reason": "security_incident",
+    "priority": "low",
+    "completed_by": "admin_2"
+  },
+  {
+    "request_id": "rev_055",
+    "account_id": "user_083",
+    "request_date": "2025-02-22 14:27:09",
+    "completion_date": "2025-02-23 05:36:17",
+    "revocation_time_hours": 15.15,
+    "reason": "transfer",
+    "priority": "high",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_056",
+    "account_id": "user_072",
+    "request_date": "2025-03-03 14:27:09",
+    "completion_date": "2025-03-04 02:39:31",
+    "revocation_time_hours": 12.21,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_057",
+    "account_id": "user_049",
+    "request_date": "2025-03-13 14:27:09",
+    "completion_date": "2025-03-14 12:02:07",
+    "revocation_time_hours": 21.58,
+    "reason": "security_incident",
+    "priority": "low",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_058",
+    "account_id": "user_026",
+    "request_date": "2025-02-10 14:27:09",
+    "completion_date": "2025-02-11 15:20:54",
+    "revocation_time_hours": 24.9,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_059",
+    "account_id": "user_049",
+    "request_date": "2025-03-26 14:27:09",
+    "completion_date": "2025-03-27 10:34:05",
+    "revocation_time_hours": 20.12,
+    "reason": "security_incident",
+    "priority": "low",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_060",
+    "account_id": "user_037",
+    "request_date": "2025-03-07 14:27:09",
+    "completion_date": "2025-03-07 23:36:16",
+    "revocation_time_hours": 9.15,
+    "reason": "role_change",
+    "priority": "high",
+    "completed_by": "admin_2"
+  },
+  {
+    "request_id": "rev_061",
+    "account_id": "user_113",
+    "request_date": "2025-02-04 14:27:09",
+    "completion_date": "2025-02-06 07:23:59",
+    "revocation_time_hours": 40.95,
+    "reason": "termination",
+    "priority": "high",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_062",
+    "account_id": "user_104",
+    "request_date": "2025-03-28 14:27:09",
+    "completion_date": "2025-03-30 09:50:53",
+    "revocation_time_hours": 43.4,
+    "reason": "termination",
+    "priority": "medium",
+    "completed_by": "admin_2"
+  },
+  {
+    "request_id": "rev_063",
+    "account_id": "user_081",
+    "request_date": "2025-02-28 14:27:09",
+    "completion_date": "2025-03-01 12:28:36",
+    "revocation_time_hours": 22.02,
+    "reason": "termination",
+    "priority": "medium",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_064",
+    "account_id": "user_046",
+    "request_date": "2025-03-10 14:27:09",
+    "completion_date": "2025-03-11 05:21:50",
+    "revocation_time_hours": 14.91,
+    "reason": "leave_of_absence",
+    "priority": "high",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_065",
+    "account_id": "user_097",
+    "request_date": "2025-03-21 14:27:09",
+    "completion_date": "2025-03-22 00:38:02",
+    "revocation_time_hours": 10.18,
+    "reason": "role_change",
+    "priority": "high",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_066",
+    "account_id": "user_114",
+    "request_date": "2025-03-31 14:27:09",
+    "completion_date": "2025-04-01 13:54:08",
+    "revocation_time_hours": 23.45,
+    "reason": "transfer",
+    "priority": "medium",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_067",
+    "account_id": "user_134",
+    "request_date": "2025-03-10 14:27:09",
+    "completion_date": "2025-03-11 04:35:23",
+    "revocation_time_hours": 14.14,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_068",
+    "account_id": "user_059",
+    "request_date": "2025-03-30 14:27:09",
+    "completion_date": "2025-04-01 09:43:47",
+    "revocation_time_hours": 43.28,
+    "reason": "termination",
+    "priority": "high",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_069",
+    "account_id": "user_096",
+    "request_date": "2025-03-11 14:27:09",
+    "completion_date": "2025-03-11 22:54:57",
+    "revocation_time_hours": 8.46,
+    "reason": "termination",
+    "priority": "medium",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_070",
+    "account_id": "user_112",
+    "request_date": "2025-03-12 14:27:09",
+    "completion_date": "2025-03-13 13:31:28",
+    "revocation_time_hours": 23.07,
+    "reason": "termination",
+    "priority": "low",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_071",
+    "account_id": "user_009",
+    "request_date": "2025-03-25 14:27:09",
+    "completion_date": "2025-03-26 15:24:51",
+    "revocation_time_hours": 24.96,
+    "reason": "transfer",
+    "priority": "low",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_072",
+    "account_id": "user_081",
+    "request_date": "2025-03-25 14:27:09",
+    "completion_date": "2025-03-25 18:23:23",
+    "revocation_time_hours": 3.94,
+    "reason": "transfer",
+    "priority": "low",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_073",
+    "account_id": "user_076",
+    "request_date": "2025-03-23 14:27:09",
+    "completion_date": "2025-03-25 08:02:48",
+    "revocation_time_hours": 41.59,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_074",
+    "account_id": "user_024",
+    "request_date": "2025-02-23 14:27:09",
+    "completion_date": "2025-02-24 06:51:56",
+    "revocation_time_hours": 16.41,
+    "reason": "security_incident",
+    "priority": "high",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_075",
+    "account_id": "user_025",
+    "request_date": "2025-02-23 14:27:09",
+    "completion_date": "2025-02-23 23:34:39",
+    "revocation_time_hours": 9.12,
+    "reason": "role_change",
+    "priority": "medium",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_076",
+    "account_id": "user_025",
+    "request_date": "2025-02-04 14:27:09",
+    "completion_date": "2025-02-05 07:27:22",
+    "revocation_time_hours": 17.0,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_077",
+    "account_id": "user_101",
+    "request_date": "2025-03-15 14:27:09",
+    "completion_date": "2025-03-16 02:23:02",
+    "revocation_time_hours": 11.93,
+    "reason": "security_incident",
+    "priority": "high",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_078",
+    "account_id": "user_037",
+    "request_date": "2025-03-19 14:27:09",
+    "completion_date": "2025-03-20 11:34:41",
+    "revocation_time_hours": 21.13,
+    "reason": "transfer",
+    "priority": "high",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_079",
+    "account_id": "user_126",
+    "request_date": "2025-03-16 14:27:09",
+    "completion_date": "2025-03-18 01:34:16",
+    "revocation_time_hours": 35.12,
+    "reason": "leave_of_absence",
+    "priority": "medium",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_080",
+    "account_id": "user_131",
+    "request_date": "2025-02-19 14:27:09",
+    "completion_date": "2025-02-19 23:50:11",
+    "revocation_time_hours": 9.38,
+    "reason": "transfer",
+    "priority": "medium",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_081",
+    "account_id": "user_095",
+    "request_date": "2025-02-03 14:27:09",
+    "completion_date": "2025-02-04 12:53:42",
+    "revocation_time_hours": 22.44,
+    "reason": "transfer",
+    "priority": "high",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_082",
+    "account_id": "user_131",
+    "request_date": "2025-03-27 14:27:09",
+    "completion_date": "2025-03-27 22:10:03",
+    "revocation_time_hours": 7.71,
+    "reason": "termination",
+    "priority": "high",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_083",
+    "account_id": "user_048",
+    "request_date": "2025-03-22 14:27:09",
+    "completion_date": "2025-03-22 19:55:05",
+    "revocation_time_hours": 5.47,
+    "reason": "termination",
+    "priority": "medium",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_084",
+    "account_id": "user_041",
+    "request_date": "2025-03-08 14:27:09",
+    "completion_date": "2025-03-08 16:58:14",
+    "revocation_time_hours": 2.52,
+    "reason": "security_incident",
+    "priority": "low",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_085",
+    "account_id": "user_048",
+    "request_date": "2025-02-03 14:27:09",
+    "completion_date": "2025-02-04 08:34:10",
+    "revocation_time_hours": 18.12,
+    "reason": "security_incident",
+    "priority": "high",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_086",
+    "account_id": "user_044",
+    "request_date": "2025-03-04 14:27:09",
+    "completion_date": "2025-03-05 10:49:07",
+    "revocation_time_hours": 20.37,
+    "reason": "leave_of_absence",
+    "priority": "high",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_087",
+    "account_id": "user_050",
+    "request_date": "2025-03-09 14:27:09",
+    "completion_date": "2025-03-11 02:41:16",
+    "revocation_time_hours": 36.24,
+    "reason": "leave_of_absence",
+    "priority": "high",
+    "completed_by": "admin_5"
+  },
+  {
+    "request_id": "rev_088",
+    "account_id": "user_144",
+    "request_date": "2025-03-13 14:27:09",
+    "completion_date": "2025-03-16 21:33:35",
+    "revocation_time_hours": 79.11,
+    "reason": "termination",
+    "priority": "medium",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_089",
+    "account_id": "user_049",
+    "request_date": "2025-02-26 14:27:09",
+    "completion_date": "2025-02-27 18:53:31",
+    "revocation_time_hours": 28.44,
+    "reason": "security_incident",
+    "priority": "low",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_090",
+    "account_id": "user_105",
+    "request_date": "2025-03-13 14:27:09",
+    "completion_date": "2025-03-14 16:32:06",
+    "revocation_time_hours": 26.08,
+    "reason": "termination",
+    "priority": "low",
+    "completed_by": "admin_1"
+  },
+  {
+    "request_id": "rev_091",
+    "account_id": "user_058",
+    "request_date": "2025-03-14 14:27:09",
+    "completion_date": "2025-03-16 06:48:27",
+    "revocation_time_hours": 40.35,
+    "reason": "leave_of_absence",
+    "priority": "low",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_092",
+    "account_id": "user_011",
+    "request_date": "2025-02-25 14:27:09",
+    "completion_date": "2025-02-26 09:09:28",
+    "revocation_time_hours": 18.71,
+    "reason": "leave_of_absence",
+    "priority": "high",
+    "completed_by": "admin_9"
+  },
+  {
+    "request_id": "rev_093",
+    "account_id": "user_039",
+    "request_date": "2025-02-23 14:27:09",
+    "completion_date": "2025-02-24 14:16:47",
+    "revocation_time_hours": 23.83,
+    "reason": "transfer",
+    "priority": "medium",
+    "completed_by": "admin_8"
+  },
+  {
+    "request_id": "rev_094",
+    "account_id": "user_065",
+    "request_date": "2025-03-30 14:27:09",
+    "completion_date": "2025-03-30 22:08:44",
+    "revocation_time_hours": 7.69,
+    "reason": "termination",
+    "priority": "high",
+    "completed_by": "admin_7"
+  },
+  {
+    "request_id": "rev_095",
+    "account_id": "user_077",
+    "request_date": "2025-03-01 14:27:09",
+    "completion_date": "2025-03-02 08:05:31",
+    "revocation_time_hours": 17.64,
+    "reason": "role_change",
+    "priority": "high",
+    "completed_by": "admin_3"
+  },
+  {
+    "request_id": "rev_096",
+    "account_id": "user_148",
+    "request_date": "2025-03-16 14:27:09",
+    "completion_date": "2025-03-19 20:03:52",
+    "revocation_time_hours": 77.61,
+    "reason": "role_change",
+    "priority": "low",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_097",
+    "account_id": "user_028",
+    "request_date": "2025-03-24 14:27:09",
+    "completion_date": "2025-03-25 03:33:17",
+    "revocation_time_hours": 13.1,
+    "reason": "transfer",
+    "priority": "high",
+    "completed_by": "admin_10"
+  },
+  {
+    "request_id": "rev_098",
+    "account_id": "user_010",
+    "request_date": "2025-03-02 14:27:09",
+    "completion_date": "2025-03-02 19:36:13",
+    "revocation_time_hours": 5.15,
+    "reason": "transfer",
+    "priority": "low",
+    "completed_by": "admin_4"
+  },
+  {
+    "request_id": "rev_099",
+    "account_id": "user_046",
+    "request_date": "2025-03-26 14:27:09",
+    "completion_date": "2025-03-27 09:59:57",
+    "revocation_time_hours": 19.55,
+    "reason": "leave_of_absence",
+    "priority": "high",
+    "completed_by": "admin_6"
+  },
+  {
+    "request_id": "rev_100",
+    "account_id": "user_149",
+    "request_date": "2025-03-15 14:27:09",
+    "completion_date": "2025-03-15 18:04:11",
+    "revocation_time_hours": 3.62,
+    "reason": "security_incident",
+    "priority": "medium",
+    "completed_by": "admin_3"
+  }
+]
