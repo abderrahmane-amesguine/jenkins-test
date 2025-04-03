@@ -25,6 +25,7 @@ export default function App() {
 
   // Données simulées pour les nouveaux KPIs
   const simulatedAccessData = {
+    
     accounts: [
       // Simulation de 100 comptes avec des attributs aléatoires
       ...Array(100).fill().map((_, i) => ({
